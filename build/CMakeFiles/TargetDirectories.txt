@@ -1,0 +1,3 @@
+/home/npcdna/VanishingPointDetection/build/CMakeFiles/edit_cache.dir
+/home/npcdna/VanishingPointDetection/build/CMakeFiles/rebuild_cache.dir
+/home/npcdna/VanishingPointDetection/build/CMakeFiles/VanishingPoint.dir

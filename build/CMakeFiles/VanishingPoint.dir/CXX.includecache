@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/npcdna/VanishingPointDetection/src/VPDetection.cpp
+VPDetection.h
+/home/npcdna/VanishingPointDetection/src/VPDetection.h
+time.h
+/home/npcdna/VanishingPointDetection/src/time.h
+iostream
+-
+
+/home/npcdna/VanishingPointDetection/src/VPDetection.h
+stdio.h
+-
+opencv2/opencv.hpp
+-
+
+/home/npcdna/VanishingPointDetection/src/lsd.h
+
+/home/npcdna/VanishingPointDetection/src/main.cpp
+lsd.h
+/home/npcdna/VanishingPointDetection/src/lsd.h
+VPDetection.h
+/home/npcdna/VanishingPointDetection/src/VPDetection.h
+iostream
+-
+
